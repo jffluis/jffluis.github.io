@@ -90,5 +90,10 @@
   ],
   "hire" : "Working at teste",
   "hire-available" : 1,
-  "published-apps" : "TuGas"
+  "published-apps" : [
+    {
+      "name" : "TuGas for iOS"
+    }
+  
+   ]
 }
