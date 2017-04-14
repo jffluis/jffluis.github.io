@@ -1,20 +1,20 @@
 {
-  "title": "I AM ELIAS",
-  "home-sub-title" : "I am a full stack developer with 2 years of experience. <br>Involving with salesforce, java, javascript.<br> Feel free to contact.",
+  "title": "I AM JOEL",
+  "home-sub-title" : "I am a full stack developer with 2 years of experience. <br>Involving with Swift, Java, Javascript, Laravel.<br> Feel free to contact.",
   "home-linkedin" : "https://pt.linkedin.com/in/eliasjsp",
   "photo" : "assets/images/elias.jpg",
-  "name" : "Elias Schmeisk Pinheiro",
-  "bday" : "01 Feb 1994",
+  "name" : "Joel Luís",
+  "bday" : "01 Sept 1994",
   "address" : "Leiria, Portugal",
-  "nationality" : "Brazilian",
-  "email" : "schmeisk@gmail.com",
+  "nationality" : "Portuguese",
+  "email" : "jffluis@gmail.com",
   "objective" : "Improve myself everyday of my life.",
-  "what-i-do" : "I have been working as a full stack developer since 2015.",
+  "what-i-do" : "I love mobile apps",
   "what-i-do-list" : [
     "Cross Platform Applications",
-    "Salesforce development",
-    "Data Mining",
-    "Web Applications"
+    "iOS Development",
+    "Android Development",
+    "API Building"
   ],
   "programming-skills" : [
     {
@@ -22,7 +22,7 @@
       "progress": "80"
     },
     {
-      "name" : "Angular2JS",
+      "name" : "Swift",
       "progress": "70"
     },
     {
@@ -30,7 +30,7 @@
       "progress": "85"
     },
     {
-      "name" : "Salesforce",
+      "name" : "Laravel",
       "progress": "75"
     }
   ],
@@ -83,23 +83,12 @@
   "experience-timeline" : [
     {
       "when" : "11/16 - NOW",
-      "what" : "Salesforce Trainee",
-      "where": "blue-infinity.com",
-      "desc" : "Working on Salesforce back-end and Angular1/2 or Lightning Components front-end."
+      "what" : "test",
+      "where": "teste",
+      "desc" : "teste"
     },
-    {
-      "when" : "05/16 - 09/16",
-      "what" : "Back End Developer and Data Miner",
-      "where": "AMARMITA.PT",
-      "desc" : "I got experience in data mining and back end developing(PHP (Open Cart), JavaScript, RazorflowJS, SQL)."
-    },
-    {
-      "when" : "09/15 - 11/15",
-      "what" : "Front-end developer - Internship",
-      "where": "Interact Solutions, Lajeado, RS, Brasil",
-      "desc" : "I got experience in JavaScript, HTML, CSS and JavaEE. 3 Months"
-    }
+ 
   ],
-  "hire" : "Working at <a href=\"https://www.blue-infinity.com/\" target=\"_blank\">blue-infinity</a>",
-  "hire-available" : 0
+  "hire" : "Working at teste",
+  "hire-available" : 1
 }
