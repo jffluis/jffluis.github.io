@@ -92,7 +92,7 @@
   "hire-available" : 1,
   "published-apps" : [
     {
-      "name" : "TuGas for iOS"
+      "name" : "TuGas for iOS",
       "url" : "https://tugasapp.me",
       "image-url" : "https://tugasapp.me/img/tugas_logo_round.png"
     }
