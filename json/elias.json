@@ -83,5 +83,19 @@
     }
   ],
   "hire" : "Working at teste",
-  "hire-available" : 1
+  "hire-available" : 1,
+    "published-apps" : [
+    {
+      "name" : "TuGas for iOS",
+      "url" : "https://tugasapp.me",
+      "image-url" : "https://tugasapp.me/img/tugas_logo_round.png",
+      "desc": "Application to check the nearest and cheaper gas stations"
+    },
+    {
+      "name" : "Chimney Sweeper",
+      "url" : "https://play.google.com/store/apps/details?id=pt.ipleiria.chimeysweeper",
+      "image-url" : "https://lh3.googleusercontent.com/56_T1Dh5nn32hiKLw9r5ojdml0KcCWKFT_w05bJSly1a2MNGETnUyPOU2D2iUYbphLc=w300",
+      "desc": "Infinite Runner game"
+    }
+   ]
 }
