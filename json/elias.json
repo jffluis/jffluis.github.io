@@ -18,12 +18,16 @@
   ],
   "programming-skills" : [
     {
-      "name" : "Java",
-      "progress": "80"
-    },
-    {
       "name" : "Swift",
       "progress": "70"
+    },
+       {
+      "name" : "Android",
+      "progress": "70"
+    },
+    {
+      "name" : "Java",
+      "progress": "60"
     },
     {
       "name" : "JavaScript",
