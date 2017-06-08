@@ -19,23 +19,23 @@
   "programming-skills" : [
     {
       "name" : "Swift",
-      "progress": "70"
+      "progress": "80"
     },
        {
       "name" : "Android",
-      "progress": "70"
+      "progress": "80"
     },
     {
       "name" : "Java",
-      "progress": "60"
+      "progress": "75"
     },
     {
       "name" : "JavaScript",
-      "progress": "85"
+      "progress": "75"
     },
     {
       "name" : "Laravel",
-      "progress": "75"
+      "progress": "80"
     }
   ],
   "other-skills" : [
